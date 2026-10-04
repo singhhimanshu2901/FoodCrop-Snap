@@ -1,0 +1,11 @@
+{
+  "name": "FloodCrop Snap",
+  "description": "Real-time crop damage evidence capture, AI & satellite GIS verification, and claim-ready assessment for flood-affected farmers and agricultural officers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
